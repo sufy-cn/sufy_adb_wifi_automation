@@ -1,4 +1,4 @@
-# sufy_adb_wifi_automation
+# sufy_adb_wifi_automation uniapp wifi调试 自动化
 # 通过电脑热点自动连接 adb wifi
 
 ### 最近开发uniapp的时候用数据线连接太不方便了，用adb调试桥开WIFI调试还要打好几行代码，然后就写了个这么个小玩意，从获取IP开始都是自动化的
